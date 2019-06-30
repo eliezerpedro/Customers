@@ -1,39 +1,42 @@
 
-[
-	{
-  	"userId": 1,
-  	"id": 1,
-  	"title": "Arena Society",
-  	"body": "Lazer"
-	},
-	{
-  	"userId": 2,
-  	"id": 2,
-  	"title": "Espaço Coworking",
-  	"body": "Reunião"
-	},
-	{
-  	"userId": 3,
-  	"id": 3,
-  	"title": "Casa de Veraneio",
-  	"body": "Estadia"
-	},
-	{
-  	"userId": 4,
-  	"id": 4,
-  	"title": "Vôley dos amigos",
-  	"body": "Lazer"
-	},
-	{
-  	"userId": 5,
-  	"id": 5,
-  	"title": "LDRV Meetings",
-  	"body": "Reunião"
-	},
+{
+	"customers":
+	[
 		{
-  	"userId": 6,
-  	"id": 6,
-  	"title": "Casa de praia do seu joão",
-  	"body": "Lazer"
-	},
-]
+	  	"userId": 1,
+	  	"id": 1,
+	  	"title": "Arena Society",
+	  	"body": "Lazer"
+		},
+		{
+	  	"userId": 2,
+	  	"id": 2,
+	  	"title": "Espaço Coworking",
+	  	"body": "Reunião"
+		},
+		{
+	  	"userId": 3,
+	  	"id": 3,
+	  	"title": "Casa de Veraneio",
+	  	"body": "Estadia"
+		},
+		{
+	  	"userId": 4,
+	  	"id": 4,
+	  	"title": "Vôley dos amigos",
+	  	"body": "Lazer"
+		},
+		{
+	  	"userId": 5,
+	  	"id": 5,
+	  	"title": "LDRV Meetings",
+	  	"body": "Reunião"
+		},
+			{
+	  	"userId": 6,
+	  	"id": 6,
+	  	"title": "Casa de praia do seu joão",
+	  	"body": "Lazer"
+		},
+	]
+}
