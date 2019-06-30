@@ -1,7 +1,6 @@
 
 {
-	"customers":
-	[
+	"customers": [
 		{
 	  	"userId": 1,
 	  	"id": 1,
@@ -38,5 +37,8 @@
 	  	"title": "Casa de praia do seu joão",
 	  	"body": "Lazer"
 		}
-	]
+	],
+	"profile": {
+    "name": "typicode"
+  }
 }
